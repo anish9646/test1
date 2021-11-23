@@ -1,3 +1,4 @@
 [submodule "sharedRepo"]
 	path = sharedRepo
 	url = https://github.com/anish9646/sharedRepo.git
+	ignore = all
